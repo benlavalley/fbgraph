@@ -1,6 +1,6 @@
 {
   "name": "fbgraph",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "description": "Facebook Graph API client",
   "license": "MIT",
   "keywords": [
@@ -14,8 +14,8 @@
   },
   "main": "index",
   "dependencies": {
-    "qs": "^6.5.0",
-    "request": "^2.79.0"
+    "qs": "^6.8.0",
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "vows": "^0.7.0"
